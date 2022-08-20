@@ -7,3 +7,22 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## package
+
+-->composer require laravel/ui
+
+-->php artisan ui --help
+
+-->php artisan ui bootstrap --auth
+
+-->npm install
+
+-->npm run dev
+
+
+## List
+
+![comment](https://user-images.githubusercontent.com/80118217/185732595-d30ed70a-15ee-4c4d-bdcc-9a4b6f9edda3.JPG)
+
+## comment 
+![comment2](https://user-images.githubusercontent.com/80118217/185732597-244cccb0-1ae8-44bc-8753-21d017795aea.JPG)
